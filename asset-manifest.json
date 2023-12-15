@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hackerapp/static/css/main.082c79ff.css",
+    "main.js": "/Hackerapp/static/js/main.72ddbc07.js",
+    "static/js/787.f6c70fdf.chunk.js": "/Hackerapp/static/js/787.f6c70fdf.chunk.js",
+    "index.html": "/Hackerapp/index.html",
+    "main.082c79ff.css.map": "/Hackerapp/static/css/main.082c79ff.css.map",
+    "main.72ddbc07.js.map": "/Hackerapp/static/js/main.72ddbc07.js.map",
+    "787.f6c70fdf.chunk.js.map": "/Hackerapp/static/js/787.f6c70fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082c79ff.css",
+    "static/js/main.72ddbc07.js"
+  ]
+}
